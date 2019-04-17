@@ -1,3 +1,5 @@
+!["City of Lebanon LOGO"](https://lebanonnh.gov/ImageRepository/Document?documentID=396)
+
 # Information Technology Librarian #
 **POSITION TITLE:** Information Technology Librarian
 
